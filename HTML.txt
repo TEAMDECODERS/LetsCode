@@ -1,1 +1,2 @@
-HTML nao eh uma linguagem de programacao
+HTML nao eh uma linguagem de programacao...
+HTML eh um padrao web
